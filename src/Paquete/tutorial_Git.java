@@ -9,6 +9,7 @@ public class tutorial_Git {
 		System.out.println("Commit 4");
 		System.out.println("Commit 6");
 		System.out.println("Commit 7");
+		System.out.println("Commit 9");
 	}
 
 }
